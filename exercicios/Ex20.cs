@@ -1,5 +1,5 @@
-﻿// 2. Crie um método:
-// a. Media(double a, double b, double c)
+﻿// 20. Leia 5 números e:
+// a. calcule a média
 
 using System;
 public class Ex20

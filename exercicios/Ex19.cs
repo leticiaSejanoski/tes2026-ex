@@ -1,5 +1,5 @@
-﻿// 2. Crie um método:
-// a. Media(double a, double b, double c)
+﻿// 19. Leia 5 números e:
+// a. mostre o maior valor
 
 using System;
 public class Ex19
